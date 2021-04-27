@@ -1,6 +1,6 @@
-# SineWaves - By Jon D Jones 💥
+# Expanding Cards - By Jon D Jones 💥
 
-Simple card example from HTML, CSS and vanilla Js!
+Expanding card example built from HTML, CSS and vanilla Js!
 
 ## 👻 Live Site URL 👺
 
